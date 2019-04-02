@@ -1,4 +1,5 @@
-"# MSL-Tokenizer" 
+MSL-Tokenizer
+========
 
 A monosyllabic language is a language in which words predominantly consist of a single syllable. Vietnamese, Chinese and other languages of Southeast Asia are referred to as monosyllabic languages. 
 In these languages, it's difficult to define the term "word", the white space between single syllable do not indicate word boundaries. In Vietnamese or Chinese, 85% of words spread over multiple syllables with spaces. The way of tokenizing the "word" will give different meaning of the sentence.
